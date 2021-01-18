@@ -1,0 +1,102 @@
+﻿ladefense,Building,longitude,latitude,Location,Surface area(m²),Offices(m²),Shops(m²),height,function,Delivery,zone,node
+,Europe,48.89110165,2.245964063,"33, Place des Corolles - 92400 Courbevoie",30161,27691,2470,110,Office,2011,Place des Corolles,esplande nord
+,Aurore,48.89014587,2.247345612,"18, Place des Reflets - 92 400 Courbevoie",38 855,32779,1 595,100,Office,1970,Place des Reflets,esplande nord
+,Saint Gobain,48.88948957,2.249256331,La Défense / North Esplanade / Iris,48 948,,,165,Office,2020,Place de lIris,esplande nord
+,CB21,48.88887468,2.249909194,"Esplanade Nord, quartier Iris (Courbevoie)",78 000 ,,,188,Office,2021,Place de lIris,esplande nord
+,D2,48.89051424,2.247879812,17 bis Place des Reflets - 924,54530,49000,,175,Office,2015,Place des Reflets,esplande nord
+,CB16-CG1,48.890551,2.247167971,"17, Place des Reflets - 92400 Courbevoie",28000,,,110,Office,2006,Place des Reflets,esplande nord
+,CBX,48.89115082,2.246569758,"1, Passerelle des Reflets - 92400",43000,,,140,Office,2005,Place des Reflets,esplande nord
+,Manhattan,48.88997939,2.248511716,"5-6, Place de l'Iris - 92400 Courbevoie",80100,,,110,Office,1975,Place de lIris,esplande nord
+,Cœur Défense,48.89099217,2.244225403,"100-110, esplanade du Général de Gaulle - 92400 Courbevoie","214,700 ",185000,,180,Office,2001,Place des Corolles,esplande nord
+,Europlaza,48.89155415,2.245115914,"20, Avenue André-Prothin - 92400",45000,,,107,Office,1999,Place des Corolles,esplande nord
+,Euronext,48.89064687,2.246738002," 7, Terrasse des Reflets - 92400",10000,,,35,Office,2009,Place des Reflets,esplande nord
+,Blanche,48.8906567,2.246038843,"34, place des Corolles - 92 400",28500,,,100,Office,2014,Place des Corolles,esplande nord
+,Manhattan Square,48.88978887,2.248526063,40-42 terrasse de l'Iris 92400 Courbevoie,,,,38,Hotel,1976,Place de lIris,esplande nord
+,Meliá Paris La Défense,48.8885475,2.250572641,"3 Boulevard de Neuilly, 92400 Courbevoie",,,,38,Hotel,1976,Place des Corolles,esplande nord
+,Vision 80,48.88950814,2.246546066,"1-2-3-4-5, Place des Reflets - 92400",,,,47,Residence,1973,Place des Reflets,esplande nord
+,Lorraine (Résidence),48.88949576,2.252420157,"11-37, Square des Corolles - 92400",,,,17,Residence,1969,Place des Corolles,esplande nord
+,Neuilly-Défense,48.88886772,2.248490543,"17-20, Place de l'Iris - 92400 Courbevoie",,,,31,Residence,1984,Place de lIris,esplande nord
+,Eqho,48.89229371,2.246763496,"2, Avenue Gambetta - 92400 Courbevoie","77,000","79,000",,131,Office,2012,Avenue Alsace,esplande nord
+,Monge,48.89147549,2.247356238,"22, Place des Vosges - 92400 Courbevoie",9500,,,34,Office,1996,Place des Vosges,esplande nord
+,Newton,48.89231799,2.247902821,"9, Place des Vosges - 92 400 Courbevoie",22700,,,35,Office,1989,Place des Vosges,esplande nord
+,Balzac,48.89191315,2.248813191,"10, Place des Vosges - 92 400 Courbevoie",22700,,,35,Office,1989,Place des Vosges,esplande nord
+,Lavoisier,48.89310023,2.248570648,"4, Place des Vosges - 92 400 Courbevoie",22510,,,35,Office,1989,Place des Vosges,esplande nord
+,La Fayette,48.8930583,2.248650977,"2-3, Place des Vosges 92400 Courbevoie",15500,,,35,Office,1989,Place des Vosges,esplande nord
+,Collège Les Renardières,48.89116117,2.249223555,"15 Avenue d'Alsace, 92400 Courbevoie",,,,15,School,1989,Avenue Alsace,esplande nord
+,Miroirs (Les),48.89040072,2.250399427,"18, Avenue d'Alsace - 92400 Courbevoie",57500,,,69,Office,1981,Avenue Alsace,esplande nord
+,Damiers de Dauphiné,48.89039711,2.252180124,"11-14, Place des Dominos - 92400 Courbevoie",,,,77,Residence,1976,Place des Dominos,esplande nord
+,Damiers de Champagne,48.88981006,2.253109851,"11-14, Place des Dominos - 92400 Courbevoie",,,,77,Residence,1976,Place des Dominos,esplande nord
+,Neptune,48.88949956,2.254110907,"20, place de Seine - 92400 Courbevoie","50,500",,,117,Office,1975,place de Seine,esplande nord
+,Damiers de Bretagne,48.89011103,2.252904695,"13-17, place de Seine - 92400 Courbevoie",,,,48,Residence,1976,place de Seine,esplande nord
+,Damiers d'Anjou,48.88874073,2.253612693,"21, place de Seine - 92400 Courbevoie",,,,48,Residence,1976,place de Seine,esplande nord
+,Ancre (Résidence de l'),48.88987787,2.251692697,"10-22, square des Saisons - 92400 Courbevoie",,,,62,Residence,1974,square des Saisons,esplande nord
+,First,48.88876393,2.251601172,"1-2, Place des Saisons - 92400 Courbevoie",86000,,,231,Office,2011,square des Saisons,esplande nord
+,Seasons (The),48.88943679,2.251162198,"4, Place des Saisons - 92400 Courbevoie",8300,,,69,Hotel,1993,square des Saisons,esplande nord
+,EDF,48.889708,2.241231,"20, Place de la Défense - 92800 Puteaux",64300,,,165,Office,2001,Place de la Défense,arche sud
+,Franklin,48.888847,2.240394,"100-101, Terrasse Boieldieu - 92800 Puteaux",72000,,,111,Office,1972,Terrasse Boieldieu,arche sud
+,Défense 2000,48.887461,2.236319,"23, Rue Louis-Pouey - 92800 Puteaux",,,,136,Residence,1974,Rue Louis-Pouey,arche sud
+,Louis Pouey,48.88767,2.23758,"20, Jardins Boieldieu - 92800 Puteaux",,,,40,Residence,1972,Jardins Boieldieu,arche sud
+,PB5,48.889739,2.239949,"14, Passage Boieldieu - 92800 Puteaux",26800,,,54,Office,1983,Passage Boieldieu,arche sud
+,Window,48.89096,2.238,"7C, Place du Dôme - 92800 Puteaux",45000,40000,5000,47,Office,1982,Place du Dôme,arche sud
+,Westfield Les Quatre Temps,48.890139,2.238985,"15, Parvis de La Défense",130000,,,24,Shop,1981,Parvis de La Défense,arche sud
+,Le Voltaire,48.88944,2.236044,"1, Place des Degres - 92800 Puteaux",44000,,,80,Office,1988,Place des Degres,arche sud
+,Pascal,48.889944,2.235004,"22, Route de la Demi-Lune and 6, Place des Degrés - 92800 Puteaux",64000,,,94,Office,1983,"Route de la Demi-Lune and 6, Place des Degrés",arche sud
+,Collines de l'Arche,48.89187,2.23524,"76, Route de la Demi-Lune - 92400 Courbevoie",70000,,,25,Office,1991,Route de la Demi-Lune,arche sud
+,Le Belvedere,48.892005,2.233552,"1-7, Cours Valmy - 92800 Puteaux",18000,,,36,Office,2018,Cours Valmy,arche sud
+,Pacific,48.891869,2.231968,"11, cours Valmy - 92800 Puteaux",55800,,,84,Office,1992,cours Valmy,arche sud
+,Basalte,48.891284,2.231167,Boulevard des Bouvets - 92800 Puteaux,43200,,,54,Office,2013,Boulevard des Bouvets,arche sud
+,Granite,48.891665,2.228621,Boulevard des Bouvets - 92800 Puteaux,67740,,,184,Office,2008,Boulevard des Bouvets,arche sud
+,Les Villages de l'Arche,48.892858,2.230575,Cours Valmy - 92800 Puteaux,84000,,,40,Office,1994,Cours Valmy,arche sud
+,Societe Generale,48.892169,2.229875,"17/18, Cours Valmy - 92 800 Puteaux",126000,,,167,Office,1995,Cours Valmy,arche sud
+,Kupka A,48.89088,2.233066,"14-18, rue Hoche - 92800 Puteaux",55000,,,50,Office,1992,rue Hoche,arche sud
+,Le Guillaumet,48.888049,2.233315,"60,Avenue du Général de Gaulle, 92800 Puteaux,",,,,188,Office,1999,Avenue du Général de Gaulle,arche sud
+,Atlantique,48.889547,2.241812,"1, place de la Pyramide - 92 800 Puteaux",26000,,,90,Office,1970,place de la Pyramide,esplande sud
+,Opus 12,48.889815,2.242573,"77, Esplanade du Général-de-Gaulle - 92800 Puteaux",34000,,,106,Office,1999,Esplanade du Général-de-Gaulle,esplande sud
+,Eve,48.88785,2.2414,"1, Place du Sud - 92800 Puteaux",7000,,,109,Office,1974,Place du Sud,esplande sud
+,ILE-DE-FRANCE,48.888705,2.242247,"4,Place de la Pyramide, 92800 Puteaux",22510,,,188,Office,1999,Place de la Pyramide,esplande sud
+,Ariane,48.88935,2.24344,"5, place de la pyramide - 92800 Puteaux",63000,,,134,Office,1975,place de la pyramide,esplande sud
+,Platanes,48.88901,2.244573,"55-63, voie des Sculpteurs - 92800 Puteaux",,,,44,Residence,1983,voie des Sculpteurs,esplande sud
+,Majunga,48.888882,2.243226,rue Delarivière Lefoullon - 92800 Puteaux,69500,,,195,Office,2014,rue Delarivière Lefoullon,esplande sud
+,Gallieni,48.88829,2.24333,14，Rue Delarivière Lefoullon - 92800 Puteaux,,,,50,Residence,1999,Rue Delarivière Lefoullon,esplande sud
+,Defense Plaza,48.887683,2.244125,23-27，Rue Delarivière Lefoullon - 92800 Puteaux,31100,,,54,Office,2004,Rue Delarivière Lefoullon,esplande sud
+,Linea,48.8871,2.243413,"1, Rue du Général Leclerc - 92800 Puteaux","15,200",,,23,Office,1988,Rue du Général Leclerc,esplande sud
+,Diamant,48.886817,2.243509,"14,Rue de la République - 92800 Puteaux",19960,,,35,Office,1991,Rue de la République,esplande sud
+,Le Michelet - Gan Groupama,48.88738,2.2478,"4-6,cours Michelet - 92 800 Puteaux",26600,,,37,Residence,1985,cours Michelet,esplande sud
+,PB20 - PB21,48.887686,2.246494,"10-12,cours Michelet - 92800 Puteaux",29500,,,27,Office,1986,cours Michelet,esplande sud
+,Michelet Galilee,48.888673,2.246548,"51,cours Michelet - 92800 Puteaux",34000,,,30,Office,1986,cours Michelet,esplande sud
+,Total Michelet,48.888427,2.244919,"24,Cours Michelet - 92800 Puteaux",77750,,,120,Office,1985,Cours Michelet,esplande sud
+,Allianz Acacia,48.88805,2.24839,"13,esplanade du Général de Gaulle - 92800 Puteaux",30700,,,34,Office,1985,esplanade du Général de Gaulle,esplande sud
+,Sofitel Defense,48.888289,2.247445,"33,Voie des Sculpteurs - 92800 Puteaux",,,,34,Hotel,1985,Voie des Sculpteurs,esplande sud
+,Allianz One,48.88761,2.24928,"1,cours Michelet - 92800 Puteaux",38000,,,85,Office,2015,cours Michelet,esplande sud
+,Galion,48.886632,2.246022,"16-18,Rue Paul-Lafargue - 92800 Puteaux",9800,,,30,Office,1982,Rue Paul-Lafargue,esplande sud
+,Minerve,48.886398,2.246809,"3 - 35,rue de la république - 92800 Puteaux",,,,55,Residence,1984,rue de la république,esplande sud
+,Initiale,48.88704,2.25153,"1,Terrasse Bellini - 92800 Puteaux",34300,,,105,Office,2003,Terrasse Bellini,esplande sud
+,Bellini,48.886557,2.25073,"1-3,rue Bellini - 92800 Puteaux",,,,56,Residence,1957,rue Bellini,esplande sud
+,CNIT,48.89276,2.23934,"2,parvis de La Défense - 92800 Puteaux",200000,,,50,Shop,1989,parvis de La Défense,arche nord
+,Collines de l'Arche,48.89346,2.23653,"76,route de la Demi-Lune - 92400 Courbevoie",70000,,,25,Office,1991,route de la Demi-Lune,arche nord
+,Triangle de l'Arche,48.89445,2.23636,Cours du Triangle - 92400 Courbevoie,45000,,,41,Office,2001,Cours du Triangle,arche nord
+,Palatin I,48.894317,2.235392,"30,Rue de Valmy - 92800 Puteaux",8000,,,49,Office,2004,Rue de Valmy,arche nord
+,Palatin II,48.89476,2.23504,"30,Rue de Valmy - 92800 Puteaux",18900,,,49,Office,2004,Rue de Valmy,arche nord
+,Palatin III,48.89498,2.23552,"30,Rue de Valmy - 92800 Puteaux",5250,,,49,Office,2004,Rue de Valmy,arche nord
+,Vinci,48.895596,2.235868,Allée de l'Arche - 92400 Courbevoie,9990,,,31,Office,1998,Allée de l'Arche,arche nord
+,Adria,48.895179,2.236099,"6-8,allée de l'Arche - 92 400 Courbevoie",54000,,,155,Office,2002,allée de l'Arche,arche nord
+,Colisée Gardens,48.89587,2.238239,Avenue de l'Arche - 92400 Courbevoie,27527,,,35,Office,1998,Avenue de l'Arche,arche nord
+,Pullman,48.894949,2.238641,"11,Avenue de l'Arche - 92400 Courbevoie",,,,35,Hotel,1998,Avenue de l'Arche,arche nord
+,Apollonia,48.896294,2.237357,"20,Avenue Léonard de Vinci - 92400 Courbevoie, 法国",,,,35,Residence,1998,Avenue Léonard de Vinci,arche nord
+,Pyramidion,48.896613,2.238377,Avenue Léonard de Vinci - 92400,9400,,,33,Residence,2011,Avenue Léonard de Vinci,arche nord
+,Adamas,48.89717,2.23951,Rue Alexis Séon - 92400 Courbevoie,9400,,,33,Residence,2007,Rue Alexis Séon,arche nord
+,Engie,48.896211,2.239571,Place Samuel-Champlain - 92400,70000,,,185,Office,2008,Place Samuel,arche nord
+,Séquoia,48.89402,2.23984,"4,Place des Saisons - 92400 Courbevoie",8300,,,69,Office,1993,Place des Saisons,arche nord
+,Dauphins,48.89453,2.24261,"3-6,Square Henri Regnault - 92400 Courbevoie",,,,41,Residence,1974,Square Henri Regnault,arche nord
+,Gambetta,48.894085,2.24286,"1-2,Square Henri Regnault - 92400 Courbevoie",,,,104,Residence,1975,Square Henri Regnault,arche nord
+,Leclerc,48.89418,2.24163,"12,Square Henri Regnault - 92400 Courbevoie",,,,41,Residence,1974,Square Henri Regnault,arche nord
+,Total Coupole,48.89268,2.24311,"2,Place de la Coupole - Jean-Miller - 92400 Courbevoie",103000,,,179,Office,1985,Place de la Coupole,arche nord
+,Areva,48.892339,2.241474,"1,place de la Coupole - Jean-Millier - 92400 Courbevoie",102500,,,178,Office,1974,place de la Coupole,arche nord
+,CB3,48.892194,2.241448,"170,Place Henri Regnault - 92400 Courbevoie",30000,,,37,Office,1978,Place Henri-Regnault,arche nord
+,Exaltis - Mazars,48.891772,2.243222,"61,Rue Henri Regnault - 92400 Courbevoie",23000,,,70,Office,2006,Rue Henri Regnault,arche nord
+,Ampère e+,48.893919,2.244076,"34-40,rue Henri Regnault - 92400 Courbevoie",14200,,,35,Office,2014,rue Henri Regnault,arche nord
+,City Défense,48.893316,2.243784,"20,rue Henri Regnault - 92400 Courbevoie",14200,,,35,Office,2014,rue Henri Regnault,arche nord
+,Ellipse,48.89308,2.2454,"41,Avenue Gambetta - 92400 Courbevoie",6000,,,36,Office,1974,Avenue Gambetta,arche nord
+,Guynemer,48.895246,2.2432,"24, Rue Ségoffin - 92400 Courbevoie",12800,,,46,Office,2002,Rue Ségoffin,arche nord
+,Berkeley Building,48.895388,2.242064,"19-29,Rue du Capitaine Guynemer - 92400 Courbevoie",19100,,,40,Office,1976,Rue du Capitaine Guynemer,arche nord
+,Lotus,48.89585,2.24328,"35-41,Rue du Capitaine Guynemer - 92400 Courbevoie",6800,,,44,Shop,1981,Rue du Capitaine Guynemer,arche nord
